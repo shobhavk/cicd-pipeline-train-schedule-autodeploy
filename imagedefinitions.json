@@ -1,0 +1,6 @@
+[
+  {
+    "name": "staging-container",
+    "imageUri": "public.ecr.aws/docker/library/hello-world:nanoserver-ltsc2022"
+  }
+]
